@@ -10,7 +10,7 @@
     <color name="colorWhite">#FFFFFFFF</color>
     <color name="colorBlackLight">#171C26</color>
     <color name="colorBlackDark">#10141C</color>
-    <color name="colorBlue">#FFD633</color>
-    <color name="colorYellow">#4E33FF</color>
+    <color name="colorYellow">#FFD633</color>
+    <color name="colorBlue">#4E33FF</color>
 
 </resources>
